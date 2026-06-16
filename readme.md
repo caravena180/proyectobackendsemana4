@@ -17,7 +17,6 @@ Esta es una API RESTful básica construida con Node.js y Express.js. Su propósi
 
 El servidor esta configurado como local host en el puerto 8080, su URL es la siguiente:
 
-El servidor está configurado para ejecutarse en el puerto 8080. La ruta base de nuestra API es:
 
 http://localhost:8080/ en el cual viene un mensaje de Bienvenida que incluye la URL de nuestros productos
 
